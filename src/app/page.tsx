@@ -165,20 +165,20 @@ export default function PortfolioDashboard() {
               </div>
               <div className="space-y-1.5 text-xs text-slate-300">
                 <a
-                  href={HERO_PROFILE.portfolioUrl}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="font-semibold text-sky-400 hover:underline flex items-center gap-1"
-                >
-                  sagarink572.github.io <ArrowUpRight className="h-3 w-3" />
-                </a>
-                <a
                   href={HERO_PROFILE.vercelUrl}
                   target="_blank"
                   rel="noreferrer"
                   className="font-semibold text-purple-400 hover:underline flex items-center gap-1"
                 >
-                  sagar-umamaheswara.vercel.app <ArrowUpRight className="h-3 w-3" />
+                  sagarink572-github-io.vercel.app <ArrowUpRight className="h-3 w-3" />
+                </a>
+                <a
+                  href="https://sagarink572.github.io"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="font-semibold text-sky-400 hover:underline flex items-center gap-1"
+                >
+                  sagarink572.github.io <ArrowUpRight className="h-3 w-3" />
                 </a>
                 <div className="flex items-center gap-1.5 text-slate-400 pt-1">
                   <MapPin className="h-3.5 w-3.5 text-sky-400" />

@@ -16,8 +16,9 @@ export const HERO_PROFILE = {
   github: "https://github.com/sagarink572",
   resumeUrl: "/Sagar_Umamaheswara_Resume.pdf",
   docxUrl: "/Sagar_Umamaheswara_Resume.docx",
-  portfolioUrl: "https://sagarink572.github.io",
-  vercelUrl: "https://sagar-umamaheswara.vercel.app",
+  portfolioUrl: "https://sagarink572-github-io.vercel.app",
+  vercelUrl: "https://sagarink572-github-io.vercel.app",
+  githubPagesUrl: "https://sagarink572.github.io",
   narrative:
     "SoC Design Engineer at Intel Corporation (since Jan 2018) combining advanced-node RTL-to-GDSII physical implementation (Intel 18A, TSMC N3, 10nm, 14nm) and 64-core Foveros Direct 3D-IC integration with production EDA automation for Cross-Voltage (Min-Max) timing scaling, automated structural/layout verification, top-metal PDN/EVR routing, and NetBatch compute telemetry.",
 };
