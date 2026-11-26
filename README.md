@@ -2,7 +2,7 @@
 
 **Live Portfolio:** [https://sagarink572.github.io](https://sagarink572.github.io)  
 **Download Resume (PDF):** [Sagar_Umamaheswara_Resume.pdf](./public/Sagar_Umamaheswara_Resume.pdf)  
-**LinkedIn:** [linkedin.com/in/sagar-u-a628ab105](https://www.linkedin.com/in/sagar-u-a628ab105)  
+**LinkedIn:** [linkedin.com/in/sagaru572](https://www.linkedin.com/in/sagaru572)  
 **Email:** [sagaruec85@gmail.com](mailto:sagaruec85@gmail.com)
 
 ---

@@ -12,7 +12,7 @@ export const HERO_PROFILE = {
   location: "Bengaluru, India",
   phone: "+91 8277701996",
   email: "sagaruec85@gmail.com",
-  linkedin: "https://www.linkedin.com/in/sagar-u-a628ab105",
+  linkedin: "https://www.linkedin.com/in/sagaru572",
   github: "https://github.com/sagarink572",
   resumeUrl: "/Sagar_Umamaheswara_Resume.pdf",
   docxUrl: "/Sagar_Umamaheswara_Resume.docx",

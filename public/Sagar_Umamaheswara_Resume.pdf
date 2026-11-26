@@ -19,14 +19,14 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R /Annots [8 0 R 9 0 R 10 0 R] >>
 endobj
 7 0 obj
-<< /Length 10472 >>
+<< /Length 10465 >>
 stream
 0.06 0.09 0.16 rg BT /F2 16.5 Tf 199.68 758.00 Td (SAGAR UMAMAHESWARA) Tj ET
 0.12 0.23 0.54 rg BT /F2 8.9 Tf 105.22 744.00 Td (SoC Design Engineer  |  Physical Design, Timing Closure, 3D-IC Integration & EDA Automation) Tj ET
-0.20 0.25 0.33 rg BT /F1 8.4 Tf 85.67 732.50 Td (Bengaluru | +91 8277701996 | sagaruec85@gmail.com | linkedin.com/in/sagar-u-a628ab105 | sagarink572.github.io) Tj ET
-0.12 0.23 0.54 RG 0.45 w 205.93 731.10 m 296.61 731.10 l S
-0.12 0.23 0.54 RG 0.45 w 305.95 731.10 m 437.14 731.10 l S
-0.12 0.23 0.54 RG 0.45 w 446.49 731.10 m 526.33 731.10 l S
+0.20 0.25 0.33 rg BT /F1 8.4 Tf 102.48 732.50 Td (Bengaluru | +91 8277701996 | sagaruec85@gmail.com | linkedin.com/in/sagaru572 | sagarink572.github.io) Tj ET
+0.12 0.23 0.54 RG 0.45 w 222.74 731.10 m 313.42 731.10 l S
+0.12 0.23 0.54 RG 0.45 w 322.76 731.10 m 420.34 731.10 l S
+0.12 0.23 0.54 RG 0.45 w 429.68 731.10 m 509.52 731.10 l S
 0.12 0.23 0.54 RG 1.2 w 38.00 725.50 m 574.00 725.50 l S
 0.06 0.09 0.16 rg BT /F2 9.5 Tf 38.00 708.50 Td (EXECUTIVE SUMMARY) Tj ET
 0.70 0.76 0.85 RG 0.75 w 38.00 704.50 m 574.00 704.50 l S
@@ -105,13 +105,13 @@ BT 49.50 185.20 Td 0.06 0.09 0.16 rg /F2 8.3 Tf (2x Technical Paper Author & Spe
 endstream
 endobj
 8 0 obj
-<< /Type /Annot /Subtype /Link /Rect [205.93 730.00 296.61 741.00] /Border [0 0 0] /A << /Type /Action /S /URI /URI (mailto:sagaruec85@gmail.com) >> >>
+<< /Type /Annot /Subtype /Link /Rect [222.74 730.00 313.42 741.00] /Border [0 0 0] /A << /Type /Action /S /URI /URI (mailto:sagaruec85@gmail.com) >> >>
 endobj
 9 0 obj
-<< /Type /Annot /Subtype /Link /Rect [305.95 730.00 437.14 741.00] /Border [0 0 0] /A << /Type /Action /S /URI /URI (https://www.linkedin.com/in/sagar-u-a628ab105) >> >>
+<< /Type /Annot /Subtype /Link /Rect [322.76 730.00 420.34 741.00] /Border [0 0 0] /A << /Type /Action /S /URI /URI (https://www.linkedin.com/in/sagaru572) >> >>
 endobj
 10 0 obj
-<< /Type /Annot /Subtype /Link /Rect [446.49 730.00 526.33 741.00] /Border [0 0 0] /A << /Type /Action /S /URI /URI (https://sagarink572.github.io) >> >>
+<< /Type /Annot /Subtype /Link /Rect [429.68 730.00 509.52 741.00] /Border [0 0 0] /A << /Type /Action /S /URI /URI (https://sagarink572.github.io) >> >>
 endobj
 xref
 0 11
@@ -123,11 +123,11 @@ xref
 0000000320 00000 n 
 0000000425 00000 n 
 0000000600 00000 n 
-0000011125 00000 n 
-0000011292 00000 n 
-0000011477 00000 n 
+0000011118 00000 n 
+0000011285 00000 n 
+0000011462 00000 n 
 trailer
 << /Size 11 /Root 1 0 R >>
 startxref
-11647
+11632
 %%EOF
