@@ -122,6 +122,16 @@ export default function PortfolioDashboard() {
                 <ArrowUpRight className="h-4 w-4" />
               </a>
               <a
+                href={HERO_PROFILE.vercelUrl}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center gap-2 rounded-xl border border-purple-500/40 bg-purple-500/10 px-4 py-3 text-sm font-medium text-purple-300 hover:bg-purple-500/20 hover:text-white transition"
+              >
+                <Sparkles className="h-4 w-4 text-purple-400" />
+                Vercel App Live
+                <ArrowUpRight className="h-4 w-4" />
+              </a>
+              <a
                 href={`mailto:${HERO_PROFILE.email}`}
                 className="inline-flex items-center gap-2 rounded-xl border border-slate-800 bg-slate-900/50 px-4 py-3 text-sm text-slate-300 hover:border-slate-700"
               >
@@ -154,8 +164,22 @@ export default function PortfolioDashboard() {
                 <QRCodeSVG value={HERO_PROFILE.portfolioUrl} size={96} />
               </div>
               <div className="space-y-1.5 text-xs text-slate-300">
-                <p className="font-semibold text-white">sagarink572.github.io</p>
-                <p>Instant mobile access to engineering portfolio & PDF/DOCX resume.</p>
+                <a
+                  href={HERO_PROFILE.portfolioUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="font-semibold text-sky-400 hover:underline flex items-center gap-1"
+                >
+                  sagarink572.github.io <ArrowUpRight className="h-3 w-3" />
+                </a>
+                <a
+                  href={HERO_PROFILE.vercelUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="font-semibold text-purple-400 hover:underline flex items-center gap-1"
+                >
+                  sagar-umamaheswara.vercel.app <ArrowUpRight className="h-3 w-3" />
+                </a>
                 <div className="flex items-center gap-1.5 text-slate-400 pt-1">
                   <MapPin className="h-3.5 w-3.5 text-sky-400" />
                   {HERO_PROFILE.location}
@@ -302,7 +326,7 @@ export default function PortfolioDashboard() {
             <div className="rounded-xl bg-slate-950/70 p-4 border border-slate-800">
               <p className="font-mono text-amber-400 font-semibold">3D-IC, PDN & Timing</p>
               <p className="mt-2 text-slate-300 leading-relaxed">
-                64-core Foveros Direct 3D stacking, hierarchical & BM3–BM5 bump/PDN routing, Cross-Voltage (XPV) Min-Max timing closure, MCMM STA, EM/IR & EVR signoff.
+                64-core Foveros Direct 3D stacking, hierarchical & top-metal bump/PDN routing, 1-click bottom-up DEF ingestion, EVR top-level DEF pushdown to partitions, Cross-Voltage (XPV) Min-Max timing closure, MCMM STA & EM/IR signoff.
               </p>
             </div>
             <div className="rounded-xl bg-slate-950/70 p-4 border border-slate-800">
@@ -378,7 +402,7 @@ export default function PortfolioDashboard() {
                   <strong className="text-emerald-400 block mb-1">
                     2. High-Impact Production Automation
                   </strong>
-                  Creator of Cross-Voltage (Min-Max) rail-aware timing scaling, 40%-faster structural/layout verification, BM3–BM5 PDN/EVR cockpits, and NetBatch compute telemetry.
+                  Creator of Cross-Voltage (Min-Max) rail-aware timing scaling, 40%-faster structural/layout verification, top-metal PDN/EVR cockpits (1-click bottom-up DEF ingestion & EVR top-level DEF to partitions), and NetBatch compute telemetry.
                 </div>
               </div>
             </div>

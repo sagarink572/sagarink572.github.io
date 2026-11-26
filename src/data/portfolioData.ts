@@ -17,6 +17,7 @@ export const HERO_PROFILE = {
   resumeUrl: "/Sagar_Umamaheswara_Resume.pdf",
   docxUrl: "/Sagar_Umamaheswara_Resume.docx",
   portfolioUrl: "https://sagarink572.github.io",
+  vercelUrl: "https://sagar-umamaheswara.vercel.app",
   narrative:
     "SoC Design Engineer at Intel Corporation (since Jan 2018) combining advanced-node RTL-to-GDSII physical implementation (Intel 18A, TSMC N3, 10nm, 14nm) and 64-core Foveros Direct 3D-IC integration with production EDA automation for Cross-Voltage (Min-Max) timing scaling, automated structural/layout verification, top-metal PDN/EVR routing, and NetBatch compute telemetry.",
 };
@@ -38,7 +39,7 @@ export const IMPACT_METRICS: MetricCard[] = [
     label: "3D-IC & Multi-Node Signoff",
     value: "64-Core",
     delta: "14nm -> 10nm -> N3 -> 18A",
-    detail: "Foveros Direct 3D-IC full-chip layout & hierarchical/top-metal (BM3-BM5) PDN across 30+ partitions",
+    detail: "Foveros Direct 3D-IC full-chip layout & hierarchical/top-metal PDN across 30+ partitions",
   },
   {
     label: "Compute Telemetry & Honors",
@@ -76,15 +77,15 @@ export const AUTOMATION_CASE_STUDIES = [
     ],
   },
   {
-    title: "Unified Top-Metal (BM3–BM5) PDN, Bump & EVR Cockpit",
+    title: "Unified Top-Metal PDN, Bump Routing & EVR Cockpit",
     badge: "Synopsys Fusion Compiler TCL Cockpit | 30+ Partitions",
     problem:
-      "Routing top-metal (BM5) power trunks over placed bumps, spreading short-free BM3/BM4/BM5 power grids across 30+ partitions, and running Early Voltage/Reliability (EVR) extraction required error-prone manual steps.",
+      "Routing top-metal power trunks over placed bumps, spreading short-free top-metal power grids across 30+ partitions, ingesting bottom-up partition DEFs, and generating top-level EVR DEF collateral to partitions required complex, error-prone manual steps.",
     architecture:
-      "Developed a unified Fusion Compiler TCL package and GUI cockpit (::hml_pdn::*) supporting dry-run preview, automated bump-to-trunk routing, pattern gap-fill, 1-click bottom-up pd_intent ingestion, 2D DRC/resistance/shielding audits, and lock-free NetBatch EVR dispatch.",
+      "Developed a unified Fusion Compiler TCL package and GUI cockpit supporting dry-run preview, automated top-metal bump-to-trunk routing, pattern gap-fill, 1-click bottom-up DEF ingestion, 2D DRC/resistance/shielding audits, and EVR top-level DEF generation/pushdown to partitions.",
     impact: [
-      "Automates short-free top-metal power routing and PDN health checks across 30+ SoC partitions.",
-      "Runs batch EVR collateral generation on read-only library snapshots without locking interactive GUI sessions.",
+      "Automates short-free top-metal power routing, 1-click bottom-up DEF ingestion, and PDN health checks across 30+ SoC partitions.",
+      "Automates EVR top-level DEF pushdown to partitions on read-only library snapshots without locking interactive GUI sessions.",
     ],
   },
   {
@@ -121,7 +122,7 @@ export const CAREER_TIMELINE = [
     highlights: [
       "Full-chip layout and top-level integration owner for a 64-core server processor using Foveros Direct 3D stacking technology; pioneered a hierarchical PDN routing methodology (Intel conference paper).",
       "Spearheaded an automated structural design and layout verification system that reduced overall execution time by 40% and lowered workforce dependency (Intel conference paper).",
-      "Developed production EDA automations: Cross-Voltage (Min-Max) rail-aware timing scaling engine, NetBatch compute capacity & job tracker, and unified BM3–BM5 PDN/bump/EVR cockpit.",
+      "Developed production EDA automations: Cross-Voltage (Min-Max) rail-aware timing scaling engine, NetBatch compute capacity & job tracker, and unified top-metal PDN/bump/EVR cockpit (1-click bottom-up DEF ingestion & EVR top-level DEF pushdown to partitions).",
       "Executed end-to-end block-level RTL-to-GDSII physical design (floorplanning, PnR, CTS, routing, StarRC extraction, PrimeTime STA, DRC/LVS/EM/IR) across Intel 18A, TSMC N3, 10nm, and 14nm.",
       "Mentored and led a team of junior layout engineers to resolve severe routing congestion and deliver tapeout-quality layout, earning Intel's 'SoC Leadership Award'.",
     ],

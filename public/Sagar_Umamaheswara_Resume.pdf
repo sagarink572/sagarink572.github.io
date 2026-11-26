@@ -19,11 +19,11 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R >>
 endobj
 7 0 obj
-<< /Length 10267 >>
+<< /Length 10303 >>
 stream
 0.06 0.09 0.16 rg BT /F2 16.5 Tf 199.68 758.00 Td (SAGAR UMAMAHESWARA) Tj ET
 0.12 0.23 0.54 rg BT /F2 8.9 Tf 105.22 744.00 Td (SoC Design Engineer  |  Physical Design, Timing Closure, 3D-IC Integration & EDA Automation) Tj ET
-0.20 0.25 0.33 rg BT /F1 8.4 Tf 74.23 732.50 Td (Bengaluru, India | +91 8277701996 | sagaruec85@gmail.com | linkedin.com/in/sagar-u-a628ab105 | sagarink572.github.io) Tj ET
+0.20 0.25 0.33 rg BT /F1 8.4 Tf 63.27 732.50 Td (Bengaluru | +91 8277701996 | sagaruec85@gmail.com | linkedin.com/in/sagar-u-a628ab105 | sagar-umamaheswara.vercel.app) Tj ET
 0.12 0.23 0.54 RG 1.2 w 38.00 725.50 m 574.00 725.50 l S
 0.06 0.09 0.16 rg BT /F2 9.5 Tf 38.00 708.50 Td (EXECUTIVE SUMMARY) Tj ET
 0.70 0.76 0.85 RG 0.75 w 38.00 704.50 m 574.00 704.50 l S
@@ -35,11 +35,11 @@ stream
 0.06 0.09 0.16 rg BT /F2 9.5 Tf 38.00 634.50 Td (CORE TECHNICAL SKILLS) Tj ET
 0.70 0.76 0.85 RG 0.75 w 38.00 630.50 m 574.00 630.50 l S
 0.06 0.09 0.16 rg BT /F2 8.3 Tf 38.00 619.00 Td (Physical Design & 3D-IC:) Tj ET
-0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 619.00 Td (Floorplanning, Hierarchical & Top-Metal \(BM3-BM5\) PDN Synthesis, Bump Routing, Placement, CTS,) Tj ET
-0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 608.70 Td (Routing, Congestion Mitigation, ECOs, Full-Chip 3D-IC Integration \(Foveros Direct\)) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 619.00 Td (Floorplanning, Hierarchical & Top-Metal PDN Synthesis, Bump Routing, 1-Click Bottom-Up DEF Ingestion,) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 608.70 Td (Placement, CTS, Routing, Congestion Mitigation, ECOs, Full-Chip 3D-IC Integration \(Foveros Direct\)) Tj ET
 0.06 0.09 0.16 rg BT /F2 8.3 Tf 38.00 597.20 Td (Timing Closure & Signoff:) Tj ET
 0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 597.20 Td (Static Timing Analysis \(STA\), Cross-Voltage \(XPV\) Min-Max Margin Scaling, MCMM Setup/Hold Closure,) Tj ET
-0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 586.90 Td (Signal Integrity \(SI\), StarRC Parasitic Extraction, DRC/LVS, EM/IR & EVR Signoff) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 586.90 Td (Signal Integrity \(SI\), StarRC Parasitic Extraction, DRC/LVS, EM/IR & Top-Level EVR DEF Signoff) Tj ET
 0.06 0.09 0.16 rg BT /F2 8.3 Tf 38.00 575.40 Td (EDA Automation & Analytics:) Tj ET
 0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 575.40 Td (Python, TCL, Perl, Cross-Voltage Delay Decomposition & Least-Squares Scaling, NetBatch Job & Capacity) Tj ET
 0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 565.10 Td (Telemetry, Automated Structural/Layout Verification, Interactive Web/Tcl Cockpits) Tj ET
@@ -72,8 +72,8 @@ BT 49.50 356.90 Td 0.06 0.09 0.16 rg /F2 8.3 Tf (64-Core Foveros Direct 3D-IC Fu
 0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 336.30 Td (methodology that increased integration throughput and presented the paper at Intel's internal conference.) Tj ET
 0.12 0.23 0.54 rg BT /F2 8.3 Tf 41.00 324.40 Td (-) Tj ET
 BT 49.50 324.40 Td 0.06 0.09 0.16 rg /F2 8.3 Tf (Unified Top-Metal PDN, Bump Routing & EVR Cockpit \(Fusion Compiler\): ) Tj 0.12 0.16 0.22 rg /F1 8.3 Tf (Created a unified Fusion Compiler TCL/GUI cockpit automating) Tj ET
-0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 314.10 Td (BM5 bump-to-trunk routing, short-free BM3/BM4/BM5 power spreading across 30 partitions, 1-click bottom-up pd_intent ingestion, 2D) Tj ET
-0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 303.80 Td (DRC/resistance/shielding audits, and batch Early Voltage/Reliability \(EVR\) extraction.) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 314.10 Td (top-metal bump-to-trunk routing, short-free top-metal power spreading across 30+ partitions, 1-click bottom-up DEF ingestion, 2D) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 303.80 Td (DRC/resistance/shielding audits, and EVR top-level DEF generation/pushdown to partitions.) Tj ET
 0.12 0.23 0.54 rg BT /F2 8.3 Tf 41.00 291.90 Td (-) Tj ET
 BT 49.50 291.90 Td 0.06 0.09 0.16 rg /F2 8.3 Tf (Multi-Node RTL-to-GDSII Block Signoff \(Intel 18A, TSMC N3, 10nm, 14nm\): ) Tj 0.12 0.16 0.22 rg /F1 8.3 Tf (Executed end-to-end block floorplanning, placement, CTS,) Tj ET
 0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 281.60 Td (routing, StarRC extraction, PrimeTime MCMM setup/hold closure, and DRC/LVS/EM/IR verification across high-density partitions spanning) Tj ET
@@ -114,5 +114,5 @@ xref
 trailer
 << /Size 8 /Root 1 0 R >>
 startxref
-10891
+10927
 %%EOF
