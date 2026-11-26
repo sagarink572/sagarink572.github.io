@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Sagar Umamaheswara | Senior SoC Physical Design & EDA Automation Engineer",
+  title: "Sagar Umamaheswara | SoC Design Engineer — Physical Design, Timing Closure & EDA Automation",
   description:
-    "Executive Engineering Portfolio of Sagar Umamaheswara — 8+ Years at Intel Corporation specializing in Physical Design (Intel 18A, TSMC N3, 10nm, 14nm), Foveros Direct 3D-IC Integration, Timing Closure, and EDA Automation.",
+    "Engineering Portfolio of Sagar Umamaheswara — 8+ Years at Intel Corporation specializing in Physical Design (Intel 18A, TSMC N3, 10nm, 14nm), 64-Core Foveros Direct 3D-IC Integration, Cross-Voltage (Min-Max) Timing Closure, and EDA Automation.",
 };
 
 export default function RootLayout({
