@@ -7,7 +7,7 @@ export interface MetricCard {
 
 export const HERO_PROFILE = {
   name: "Sagar Umamaheswara",
-  role: "Senior SoC Physical Design, Timing Closure & Design Automation Engineer",
+  role: "Senior SoC Physical Design Integration, Timing Closure Engineer",
   company: "Intel Corporation (Jan 2018 – Present)",
   location: "Bengaluru, India",
   phone: "+91 7019369609",
