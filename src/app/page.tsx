@@ -416,12 +416,11 @@ export default function PortfolioDashboard() {
                 Download Resume (PDF)
               </a>
               <a
-                href={HERO_PROFILE.docxUrl}
-                download
+                href={`mailto:${HERO_PROFILE.email}?subject=SoC%20Physical%20Design%20%2F%20EDA%20Automation%20Opportunity`}
                 className="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-xl border border-slate-700 bg-slate-950/80 px-6 py-3 text-xs font-semibold text-slate-200 hover:border-sky-400 transition"
               >
-                <Download className="h-4 w-4 text-sky-400" />
-                Download Resume (DOCX)
+                <Mail className="h-4 w-4 text-sky-400" />
+                Schedule Technical Discussion
               </a>
             </div>
           </div>
