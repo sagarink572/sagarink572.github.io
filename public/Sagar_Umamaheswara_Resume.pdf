@@ -1,0 +1,123 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 10959 >>
+stream
+0.06 0.09 0.16 rg BT /F2 16.5 Tf 199.68 758.00 Td (SAGAR UMAMAHESWARA) Tj ET
+0.12 0.23 0.54 rg BT /F2 8.9 Tf 63.16 744.00 Td (Senior Physical Design Engineer  |  Timing Closure Specialist  |  Design Automation & Engineering Analytics Lead) Tj ET
+0.20 0.25 0.33 rg BT /F1 8.4 Tf 60.22 732.50 Td (Bengaluru, India  |  +91 7019369609  |  sagaruec85@gmail.com  |  linkedin.com/in/sagar-u-a628ab105  |  github.com/sagarink572) Tj ET
+0.12 0.23 0.54 RG 1.2 w 38.00 725.50 m 574.00 725.50 l S
+0.06 0.09 0.16 rg BT /F2 9.5 Tf 38.00 708.50 Td (EXECUTIVE SUMMARY) Tj ET
+0.70 0.76 0.85 RG 0.75 w 38.00 704.50 m 574.00 704.50 l S
+0.12 0.16 0.22 rg BT /F1 8.4 Tf 38.00 693.00 Td (Senior Physical Design and Design Automation Engineer with 8+ years of continuous tenure at Intel Corporation \(January 2018 - Present\),) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.4 Tf 38.00 682.40 Td (combining advanced-node RTL-to-GDSII implementation \(Intel 18A, TSMC N3, 10nm, 14nm\) with high-impact EDA automation, engineering) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.4 Tf 38.00 671.80 Td (analytics, and workflow optimization. Proven full-chip technical owner for a 64-core server processor using Foveros Direct 3D stacking, and) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.4 Tf 38.00 661.20 Td (architect of automated structural/layout verification and hierarchical PDN methodologies that reduced execution time by 40%, accelerated) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.4 Tf 38.00 650.60 Td (root-cause debug, and scaled across engineering teams. Two-time Intel technical conference paper presenter and SoC Leadership Award) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.4 Tf 38.00 640.00 Td (recipient.) Tj ET
+0.06 0.09 0.16 rg BT /F2 9.5 Tf 38.00 623.90 Td (CORE TECHNICAL SKILLS) Tj ET
+0.70 0.76 0.85 RG 0.75 w 38.00 619.90 m 574.00 619.90 l S
+0.06 0.09 0.16 rg BT /F2 8.3 Tf 38.00 608.40 Td (Physical Design & 3D-IC:) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 608.40 Td (Floorplanning, Hierarchical PDN Architecture & Analysis, Placement, Clock Tree Synthesis \(CTS\), Routing,) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 598.10 Td (Congestion Mitigation, ECO Implementation, Full-Chip 3D-IC Layout & Integration \(Foveros Direct\)) Tj ET
+0.06 0.09 0.16 rg BT /F2 8.3 Tf 38.00 586.60 Td (Timing Closure & Signoff:) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 586.60 Td (Static Timing Analysis \(STA\), Setup/Hold Convergence, Multi-Corner Multi-Mode \(MCMM\), Signal Integrity) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 576.30 Td (\(SI\), Parasitic RC Extraction, Structural Verification, Physical Verification \(DRC/LVS\), EM/IR Reliability) Tj ET
+0.06 0.09 0.16 rg BT /F2 8.3 Tf 38.00 564.80 Td (Automation & Analytics:) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 564.80 Td (Python Automation, TCL Scripting, Perl, Automated Layout & Structural Verification Frameworks, Timing Path) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 554.50 Td (& Trace Analytics, Design Health Dashboards, Root-Cause Debug Acceleration, Workflow & TAT) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 544.20 Td (Optimization) Tj ET
+0.06 0.09 0.16 rg BT /F2 8.3 Tf 38.00 532.70 Td (EDA Tools & Process Nodes:) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 532.70 Td (Synopsys Fusion Compiler, IC Compiler II \(ICC2\), 3DIC Compiler, StarRC, PrimeTime; Process Nodes: Intel) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 170.00 522.40 Td (18A, TSMC N3 \(3nm\), Intel 10nm, Intel 14nm; Linux/UNIX Compute Infrastructure) Tj ET
+0.06 0.09 0.16 rg BT /F2 9.5 Tf 38.00 506.90 Td (PROFESSIONAL EXPERIENCE) Tj ET
+0.70 0.76 0.85 RG 0.75 w 38.00 502.90 m 574.00 502.90 l S
+0.06 0.09 0.16 rg BT /F2 9.2 Tf 38.00 491.40 Td (INTEL CORPORATION  --  Bengaluru, India) Tj ET
+0.12 0.23 0.54 rg BT /F2 8.6 Tf 436.57 491.40 Td (January 2018 - Present \(8+ Years\)) Tj ET
+0.20 0.25 0.33 rg BT /F3 8.4 Tf 38.00 480.60 Td (SoC Design Engineer  |  Physical Design, Timing Closure, 3D-IC Integration & Design Automation) Tj ET
+0.12 0.23 0.54 rg BT /F2 8.6 Tf 38.00 467.40 Td (Design Automation, Engineering Analytics & Productivity Leadership) Tj ET
+0.12 0.23 0.54 rg BT /F2 8.3 Tf 41.00 456.60 Td (-) Tj ET
+BT 49.50 456.60 Td 0.06 0.09 0.16 rg /F2 8.3 Tf (Automated Structural & Layout Verification Platform \(40% TAT Reduction\): ) Tj 0.12 0.16 0.22 rg /F1 8.3 Tf (Spearheaded the architecture and deployment of an) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 446.30 Td (end-to-end automated structural design and layout verification system using TCL, Perl, and automated data-processing pipelines to eliminate) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 436.00 Td (manual signoff bottlenecks, reducing overall execution time by 40% and significantly lowering workforce dependency.) Tj ET
+0.12 0.23 0.54 rg BT /F2 8.3 Tf 41.00 424.10 Td (-) Tj ET
+BT 49.50 424.10 Td 0.06 0.09 0.16 rg /F2 8.3 Tf (Hierarchical PDN Routing Automation for 3D-IC Server: ) Tj 0.12 0.16 0.22 rg /F1 8.3 Tf (Designed and automated a novel hierarchical Power Delivery Network \(PDN\)) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 413.80 Td (routing methodology in Synopsys 3DIC Compiler / Fusion Compiler to resolve full-chip power-grid routing bottlenecks on a 64-core server) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 403.50 Td (processor, substantially increasing integration throughput and standardizing multi-die PDN execution.) Tj ET
+0.12 0.23 0.54 rg BT /F2 8.3 Tf 41.00 391.60 Td (-) Tj ET
+BT 49.50 391.60 Td 0.06 0.09 0.16 rg /F2 8.3 Tf (Timing Path Analytics, Debug Acceleration & QoR Dashboards: ) Tj 0.12 0.16 0.22 rg /F1 8.3 Tf (Engineered reusable Python, TCL, and Perl analytics workflows across) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 381.30 Td (Synopsys Fusion Compiler, ICC2, StarRC, and PrimeTime to automate timing-path trace extraction, congestion hotspot profiling, and) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 371.00 Td (design-health reporting, accelerating root-cause identification and data-driven closure decisions.) Tj ET
+0.12 0.23 0.54 rg BT /F2 8.3 Tf 41.00 359.10 Td (-) Tj ET
+BT 49.50 359.10 Td 0.06 0.09 0.16 rg /F2 8.3 Tf (Methodology Adoption & Technical Publications: ) Tj 0.12 0.16 0.22 rg /F1 8.3 Tf (Authored and presented two peer-reviewed technical papers at Intel's internal engineering) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 348.80 Td (conference on automated structural/layout verification and hierarchical 3D-IC PDN routing, driving organization-wide adoption of high-efficiency) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 338.50 Td (backend workflows.) Tj ET
+0.12 0.23 0.54 rg BT /F2 8.6 Tf 38.00 324.60 Td (Physical Design, Timing Closure & Full-Chip 3D-IC Execution \(Intel 18A, TSMC N3, 10nm, 14nm\)) Tj ET
+0.12 0.23 0.54 rg BT /F2 8.3 Tf 41.00 313.80 Td (-) Tj ET
+BT 49.50 313.80 Td 0.06 0.09 0.16 rg /F2 8.3 Tf (Full-Chip 64-Core Server 3D-IC Layout & Integration Ownership: ) Tj 0.12 0.16 0.22 rg /F1 8.3 Tf (Owned full-chip physical layout, die-to-die floorplan alignment, and) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 303.50 Td (top-level integration for a flagship 64-core server processor utilizing Intel Foveros Direct 3D stacking technology in Synopsys 3DIC Compiler,) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 293.20 Td (delivering clean full-chip convergence under aggressive tapeout schedules.) Tj ET
+0.12 0.23 0.54 rg BT /F2 8.3 Tf 41.00 281.30 Td (-) Tj ET
+BT 49.50 281.30 Td 0.06 0.09 0.16 rg /F2 8.3 Tf (Multi-Node Block-Level RTL-to-GDSII Implementation: ) Tj 0.12 0.16 0.22 rg /F1 8.3 Tf (Executed end-to-end block-level floorplanning, PDN synthesis, placement, CTS,) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 271.00 Td (routing, and ECO implementation across diverse, high-density logic blocks spanning Intel 18A, TSMC N3 \(3nm\), Intel 10nm, and Intel 14nm) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 260.70 Td (process technologies.) Tj ET
+0.12 0.23 0.54 rg BT /F2 8.3 Tf 41.00 248.80 Td (-) Tj ET
+BT 49.50 248.80 Td 0.06 0.09 0.16 rg /F2 8.3 Tf (Signoff STA Timing Closure, RC Extraction & Verification: ) Tj 0.12 0.16 0.22 rg /F1 8.3 Tf (Drove parasitic RC extraction in Synopsys StarRC, Multi-Corner Multi-Mode) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 238.50 Td (\(MCMM\) setup/hold timing analysis and signoff closure in Synopsys PrimeTime, and physical/reliability verification \(DRC/LVS, EM/IR\) to) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 228.20 Td (achieve first-pass silicon tapeouts under tight deadlines.) Tj ET
+0.12 0.23 0.54 rg BT /F2 8.3 Tf 41.00 216.30 Td (-) Tj ET
+BT 49.50 216.30 Td 0.06 0.09 0.16 rg /F2 8.3 Tf (Severe Congestion Turnaround & Team Leadership \(SoC Leadership Award\): ) Tj 0.12 0.16 0.22 rg /F1 8.3 Tf (Led and mentored a team of junior layout design engineers) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 206.00 Td (to rescue a tapeout-critical block stalled by severe routing congestion, driving floorplan channel optimization and placement density tuning to) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 195.70 Td (deliver a high-quality layout and earn Intel's SoC Leadership Award.) Tj ET
+0.06 0.09 0.16 rg BT /F2 9.5 Tf 38.00 179.80 Td (HONORS, AWARDS & TECHNICAL PUBLICATIONS) Tj ET
+0.70 0.76 0.85 RG 0.75 w 38.00 175.80 m 574.00 175.80 l S
+0.12 0.23 0.54 rg BT /F2 8.3 Tf 41.00 164.30 Td (-) Tj ET
+BT 49.50 164.30 Td 0.06 0.09 0.16 rg /F2 8.3 Tf (SoC Leadership Award  --  Intel Senior Management: ) Tj 0.12 0.16 0.22 rg /F1 8.3 Tf (Awarded for technical leadership and mentorship in guiding a layout engineering team) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 154.00 Td (to resolve severe block-level routing congestion and deliver tapeout-quality silicon on schedule.) Tj ET
+0.12 0.23 0.54 rg BT /F2 8.3 Tf 41.00 142.10 Td (-) Tj ET
+BT 49.50 142.10 Td 0.06 0.09 0.16 rg /F2 8.3 Tf (2x Technical Paper Author & Speaker  --  Intel Internal Conference: ) Tj 0.12 0.16 0.22 rg /F1 8.3 Tf (Published and presented two methodological innovations: \(1\)) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 131.80 Td (Automated Structural Design & Layout Verification System \(40% Execution Time Reduction\), and \(2\) Hierarchical PDN Routing Methodology) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 121.50 Td (for 64-Core Foveros Direct 3D-IC Server.) Tj ET
+0.06 0.09 0.16 rg BT /F2 9.5 Tf 38.00 105.60 Td (EDUCATION) Tj ET
+0.70 0.76 0.85 RG 0.75 w 38.00 101.60 m 574.00 101.60 l S
+0.06 0.09 0.16 rg BT /F2 8.7 Tf 38.00 90.10 Td (M.Tech in Microelectronics  --  BITS Pilani) Tj ET
+0.12 0.23 0.54 rg BT /F2 8.4 Tf 543.64 90.10 Td (08/2023) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 79.80 Td (CGPA: 8.75 / 10.0  |  Ranked in the Top 10 Percentile among a batch of 300 students.) Tj ET
+0.06 0.09 0.16 rg BT /F2 8.7 Tf 38.00 67.50 Td (B.E. in Electronics and Communication Engineering  --  Siddaganga Institute of Technology) Tj ET
+0.12 0.23 0.54 rg BT /F2 8.4 Tf 543.64 67.50 Td (08/2017) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.3 Tf 49.50 57.20 Td (CGPA: 9.16 / 10.0  |  Completed Summer Research Internship at IIT Guwahati under Prof. S. R. M. Prasanna.) Tj ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000218 00000 n 
+0000000320 00000 n 
+0000000425 00000 n 
+0000000571 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+11583
+%%EOF
