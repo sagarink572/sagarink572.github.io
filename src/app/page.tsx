@@ -302,7 +302,7 @@ export default function PortfolioDashboard() {
             <div className="rounded-xl bg-slate-950/70 p-4 border border-slate-800">
               <p className="font-mono text-amber-400 font-semibold">3D-IC, PDN & Timing</p>
               <p className="mt-2 text-slate-300 leading-relaxed">
-                64-core Foveros Direct 3D stacking, hierarchical & BM3–BM5 bump/PDN routing, Cross-Voltage (XPV) Min-Max timing closure, IO budgeting (CONMAN), UCR & EVR signoff.
+                64-core Foveros Direct 3D stacking, hierarchical & BM3–BM5 bump/PDN routing, Cross-Voltage (XPV) Min-Max timing closure, MCMM STA, EM/IR & EVR signoff.
               </p>
             </div>
             <div className="rounded-xl bg-slate-950/70 p-4 border border-slate-800">

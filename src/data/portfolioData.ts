@@ -18,7 +18,7 @@ export const HERO_PROFILE = {
   docxUrl: "/Sagar_Umamaheswara_Resume.docx",
   portfolioUrl: "https://sagarink572.github.io",
   narrative:
-    "SoC Design Engineer at Intel Corporation (since Jan 2018) combining advanced-node RTL-to-GDSII physical implementation (Intel 18A, TSMC N3, 10nm, 14nm) and 64-core Foveros Direct 3D-IC integration with production EDA automation for Cross-Voltage (Min-Max) timing scaling, multi-partition IO/UCR signoff triage, top-metal PDN/EVR routing, and NetBatch compute telemetry.",
+    "SoC Design Engineer at Intel Corporation (since Jan 2018) combining advanced-node RTL-to-GDSII physical implementation (Intel 18A, TSMC N3, 10nm, 14nm) and 64-core Foveros Direct 3D-IC integration with production EDA automation for Cross-Voltage (Min-Max) timing scaling, automated structural/layout verification, top-metal PDN/EVR routing, and NetBatch compute telemetry.",
 };
 
 export const IMPACT_METRICS: MetricCard[] = [
@@ -88,18 +88,6 @@ export const AUTOMATION_CASE_STUDIES = [
     ],
   },
   {
-    title: "Multi-Partition IO Budget (CONMAN), Boomerang Path & UCR Triage Suite",
-    badge: "30+ SoC / NPU Partitions | PrimeTime Socket & Batch Analytics",
-    problem:
-      "Auditing thousands of partition IO timing budgets, synchronous boomerang/feedthrough paths, Unconstrained Endpoints (UCR), and clock-grouping gaps across 30+ tiles/partitions caused multi-day signoff delays.",
-    architecture:
-      "Created automated PrimeTime client-server TCL/Python pipelines to cross-audit top-vs-partition IO constraints (MidVCC), trace port-to-port boomerang paths, classify UCR/Caliber violations with root-cause evidence, and track waiver state.",
-    impact: [
-      "Automated IO constraint and UCR root-cause triage across 30+ partitions with zero manual spreadsheet merging.",
-      "Delivered traceable multi-sheet Excel & HTML signoff dashboards with exact pin/clock/SDC provenance.",
-    ],
-  },
-  {
     title: "Automated Structural Design & Physical Layout Verification System",
     badge: "40% Cycle-Time Reduction | Intel Technical Conference Paper",
     problem:
@@ -133,7 +121,7 @@ export const CAREER_TIMELINE = [
     highlights: [
       "Full-chip layout and top-level integration owner for a 64-core server processor using Foveros Direct 3D stacking technology; pioneered a hierarchical PDN routing methodology (Intel conference paper).",
       "Spearheaded an automated structural design and layout verification system that reduced overall execution time by 40% and lowered workforce dependency (Intel conference paper).",
-      "Developed production EDA automations: Cross-Voltage (Min-Max) rail-aware timing scaling engine, NetBatch compute capacity & job tracker, unified BM3–BM5 PDN/bump/EVR cockpit, and multi-partition IO/Boomerang/UCR signoff triage pipelines.",
+      "Developed production EDA automations: Cross-Voltage (Min-Max) rail-aware timing scaling engine, NetBatch compute capacity & job tracker, and unified BM3–BM5 PDN/bump/EVR cockpit.",
       "Executed end-to-end block-level RTL-to-GDSII physical design (floorplanning, PnR, CTS, routing, StarRC extraction, PrimeTime STA, DRC/LVS/EM/IR) across Intel 18A, TSMC N3, 10nm, and 14nm.",
       "Mentored and led a team of junior layout engineers to resolve severe routing congestion and deliver tapeout-quality layout, earning Intel's 'SoC Leadership Award'.",
     ],
